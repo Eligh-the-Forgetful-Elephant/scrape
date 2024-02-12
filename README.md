@@ -1,2 +1,2 @@
 # scrape
-web scraper in c++
+web scraper project
